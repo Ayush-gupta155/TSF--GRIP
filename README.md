@@ -1,6 +1,5 @@
 # TSF--GRIP
-This repo contains different projects under GRIP intership by THE SPARKS FOUNDATION
-# TSF_GRIP
+This repo contains different projects under GRIP intership offered by THE SPARKS FOUNDATION
 This repository contains projects for GRIP Internship.
 It contains ML programs for:
 1. Iris Flower clustring using Logistic Regression, SVM, KNN, Gaussian NB, Decision Tree.
